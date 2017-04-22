@@ -18,8 +18,8 @@ package trello
 
 import (
 	"encoding/json"
-	"fmt"
 	"net/url"
+	"strconv"
 	"strings"
 )
 
